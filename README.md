@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aman-zing6702
-- 👀 I’m interested in ...girls
-- 🌱 I’m currently learning ...cs50
-- 💞️ I’m looking to collaborate on cs50...
+- 👀 I’m interested in ...dev
+- 🌱 I’m currently learning ...ai
+- 💞️ I’m looking to collaborate on ai...
 - 📫 How to reach me ...via github
 
 <!---
